@@ -1,3 +1,7 @@
+# Shapefiles and processed files are too large for github
+shapefiles/
+processed files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
