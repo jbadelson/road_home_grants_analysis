@@ -1,6 +1,6 @@
 # Shapefiles and processed files are too large for github
 shapefiles/
-processed files/
+processed \data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
