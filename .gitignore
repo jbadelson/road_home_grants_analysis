@@ -1,6 +1,7 @@
 # Shapefiles and processed files are too large for github
 shapefiles/
 processed \data/rh_blocks.csv
+raw \data/* 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
