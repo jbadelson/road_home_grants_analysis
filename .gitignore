@@ -2,6 +2,7 @@
 shapefiles/
 processed \data/rh_blocks.csv
 raw \data/* 
+processed \data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
